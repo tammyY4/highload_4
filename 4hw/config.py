@@ -1,0 +1,9 @@
+SECRET_KEY='KcHgvZ238C5NWhF6XQMcb2RBoE6oW7KnciL5oLbRcTH0UjY6YWiGwlMpnSGbQiNfomY'
+EMAIL_HOST='smtp.gmail.com'
+EMAIL_PORT=587
+EMAIL_HOST_USER='tammyyup04@gmail.com'
+EMAIL_HOST_PASSWORD='xxeb tfft lijr hpao'
+DEFAULT_FROM_EMAIL='tammyyup04@gmail.com'
+REDIS_URL= 'redis://localhost'
+TOKEN_EXPIRY_MINUTES= 2880
+MESSAGE_TTL = 5 * 60
